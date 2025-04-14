@@ -1,0 +1,7 @@
+{
+  "Metric": "tool_trajectory_avg_score",
+  "Status": "EvalStatus.PASSED",
+  "Score": 1.0,
+  "Threshold": 1.0,
+  "Result": "✅ Passsed"
+}

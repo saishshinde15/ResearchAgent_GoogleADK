@@ -70,7 +70,6 @@ ResearchAgent/
     *   Add your API keys to the `.env` file. For example:
         ```dotenv
         # ResearchAgent/.env file
-        SERPAPI_API_KEY=your_serpapi_api_key_here
         GEMINI_API_KEY=your_gemini_api_key_here
         ```
     *   *(Note: Ensure the specific environment variable names match what the `google_search` tool or the underlying model expects. Check the ADK documentation or tool implementation if unsure.)*

@@ -93,7 +93,7 @@ Here's an example of the agent's output for a sample question:
 ### Sample Question
 
 ```
-help me research about the latest trends in Ai and Marketing.Also why is everyone using AI as a special feature in their product.can you give me in very detailed format and with topics(in bold)
+help me research about the latest trends in Ai in Marketing.Also why is everyone using AI as a special feature in their product.can you give me in very detailed format and with topics(in bold)
 ```
 
 ### Sample Answer
